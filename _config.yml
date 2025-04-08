@@ -26,8 +26,8 @@ author:
   name             : "Chenlong Li"
   pronouns         : "he/him"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "China"
+  employer         : "Renmin University of China"
   uri              : # URL
   email            : "none@example.org" 
 
@@ -45,7 +45,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "https://github.com/lichenlongruc"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 

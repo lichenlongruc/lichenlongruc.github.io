@@ -7,6 +7,8 @@ redirect_from:
   - /about.html
 ---
 
+Education
+------
 Chenlong Li is a PhD student at Renmin University of China, majoring in Information Systems. He received his B.S. from Minzu University of China in Information and Computing Science in 2024, and skipped M.A. due to his outstanding grades.
 
 Research Interests
